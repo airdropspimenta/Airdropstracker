@@ -2,4 +2,5 @@
 
 Tracker and notes for onchain campaigns.
 
-See [BASE.md](./BASE.md) for Base + Base Learn Guild links and a short builder checklist.
+- [BASE.md](./BASE.md) — overview
+- [notes/](./notes/) — 50 short Base notes (network, guild, remix, safety, etc.)
